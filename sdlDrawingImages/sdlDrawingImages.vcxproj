@@ -22,6 +22,9 @@
     <ClCompile Include="Main.c" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="brick.png" />
+    <Image Include="kick_man.png" />
+    <Image Include="stand_man.png" />
     <Image Include="star1.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

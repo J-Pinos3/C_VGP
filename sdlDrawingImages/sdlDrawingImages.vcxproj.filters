@@ -23,8 +23,17 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="brick.png">
+      <Filter>Archivos de origen\images</Filter>
+    </Image>
+    <Image Include="kick_man.png">
+      <Filter>Archivos de origen\images</Filter>
+    </Image>
+    <Image Include="stand_man.png">
+      <Filter>Archivos de origen\images</Filter>
+    </Image>
     <Image Include="star1.png">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Archivos de origen\images</Filter>
     </Image>
   </ItemGroup>
 </Project>
