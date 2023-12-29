@@ -26,13 +26,13 @@
     <Image Include="brick.png">
       <Filter>Archivos de origen\images</Filter>
     </Image>
-    <Image Include="kick_man.png">
+    <Image Include="man_lta.png">
       <Filter>Archivos de origen\images</Filter>
     </Image>
-    <Image Include="stand_man.png">
+    <Image Include="man_ltb.png">
       <Filter>Archivos de origen\images</Filter>
     </Image>
-    <Image Include="star1.png">
+    <Image Include="star.png">
       <Filter>Archivos de origen\images</Filter>
     </Image>
   </ItemGroup>

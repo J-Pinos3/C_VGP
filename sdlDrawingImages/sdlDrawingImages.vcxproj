@@ -23,9 +23,9 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="brick.png" />
-    <Image Include="kick_man.png" />
-    <Image Include="stand_man.png" />
-    <Image Include="star1.png" />
+    <Image Include="man_lta.png" />
+    <Image Include="man_ltb.png" />
+    <Image Include="star.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

@@ -1,8 +1,8 @@
 ﻿  Main.c
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(132,29): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(132,53): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(132,77): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(132,101): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(246,31): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(246,45): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(162,29): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(162,53): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(162,77): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(162,101): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(321,31): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\Main.c(321,45): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
   sdlDrawingImages.vcxproj -> C:\Users\Usuario\Desktop\C_VGP\sdlDrawingImages\x64\Debug\sdlDrawingImages.exe
